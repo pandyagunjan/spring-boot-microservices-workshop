@@ -10,3 +10,5 @@ Used Link :https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 
 More information (Important) :
 https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b
+
+Trying to use mySQl DB
